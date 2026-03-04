@@ -10,7 +10,7 @@
 
 - Tools: Git / Docker / GitHub Actions
 
-## 🎯 Core Directions
+- ## 🎯 Core Directions
 
 - Open Source Tool Development and Maintenance
 
@@ -35,7 +35,7 @@
 
 - Learning [New skills, such as GitHub]
 
-## 📫 Contact Me
+- ## 📫 Contact Me
 
 - Email: yinweiyu2002@gmail.com
 
