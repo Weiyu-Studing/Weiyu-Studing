@@ -8,6 +8,6 @@
 
 - Email: yinweiyu2002@gmail.com
 
-- Email(workking): yin1532776643@gmail.com
+- Email(working): yin1532776643@gmail.com
 
 - Address: 130 Henlow Bay, Winnipeg, MB R3Y 1G4
