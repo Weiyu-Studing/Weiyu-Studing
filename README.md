@@ -1,8 +1,5 @@
 ![](./assets/media/background.jpg)
 
-# Statistics 
-![](./assets/media/Statistics.png)
-
 ## 🔥 Recent Activities
 
 - Learning [New skills, such as GitHub]
