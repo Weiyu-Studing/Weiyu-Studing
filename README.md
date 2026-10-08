@@ -20,4 +20,4 @@ I also bring practical hands‑on troubleshooting experience from automotive rep
 
 - Address: 130 Henlow Bay, Winnipeg, MB R3Y 1G4
 
--[LinkedIn](www.linkedin.com/in/weiyu-yin-mainpage)
+-[LinkedIn](www.linkedin.com/in/weiyu-yin)
